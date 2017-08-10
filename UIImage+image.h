@@ -6,8 +6,4 @@
 //  Copyright © 2016年 陈武琦. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
 
-@interface UIImage (image)
-
-@end
